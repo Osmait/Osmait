@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saul Burgos
-- 👀 I’m interested in backEnd deep learning and engineer
+- 👀 I’m interested in backend, deep learning and engineer
 - 🌱 I’m currently learning Golang
 
 

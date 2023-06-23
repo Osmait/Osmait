@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saul Burgos
 - 👀 I’m interested in backend, deep learning and Data engineer
-- 🌱 I’m currently learning DevOps 
+- 🌱 I’m currently learning rust
 
 
 <!---

@@ -11,6 +11,9 @@ Full-stack product builder focused on backend systems, developer tools, and soft
 - 💸 [GestorDePresupuesto](https://github.com/Osmait/GestorDePresupuesto) — a budgeting product focused on real-world usability
 - 🐧 [tuxgo](https://github.com/Osmait/tuxgo) — terminal-first tooling and experiments around developer workflows
 - ⚡ [hitt](https://github.com/Osmait/hitt) — a Rust API client for the terminal with TUI + CLI, collections, chaining, and real-time protocol support
+- 🔎 [ghline](https://github.com/Osmait/ghline) — browse GitHub from the terminal over the `gh` CLI: repositories, issues, pull requests, Actions logs and files, and hand any of it to a coding agent
+- 📝 [diffline](https://github.com/Osmait/ghline/blob/main/docs/diffline.md) — review a diff and write notes anchored to the lines they are about, then send the whole queue to an agent as one message (ships with ghline)
+- ✏️ [agentline.nvim](https://github.com/Osmait/agentline.nvim) — send Neovim selections and buffers to a running coding agent, closing the loop from the editor
 ## What I Build
 - full-stack products
 - backend services and APIs

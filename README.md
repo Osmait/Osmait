@@ -1,28 +1,72 @@
 # Hi, I'm José Saúl Burgos 👋
-Full-stack product builder focused on backend systems, developer tools, and software that feels fast, useful, and well-crafted.
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+I'm a **backend developer** focused on reliable services, distributed systems,
+native applications, and developer tools.
+
+I work mainly with Go, Rust, Zig, TypeScript, and PostgreSQL. I enjoy designing
+APIs, working with concurrency and data, and turning complex technical ideas
+into useful products.
+
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![CLI/TUI](https://img.shields.io/badge/-CLI%2FTUI-111111?style=flat-square&logo=gnubash&logoColor=white)
-> I like building products end-to-end: backend, frontend, tooling, and the details that make software enjoyable to use.
-## Current Projects
-- 🦀 [sbql](https://github.com/Osmait/sbql) — a Rust-powered SQL workspace with a TUI and a native macOS app
-- 💸 [GestorDePresupuesto](https://github.com/Osmait/GestorDePresupuesto) — a budgeting product focused on real-world usability
-- 🐧 [tuxgo](https://github.com/Osmait/tuxgo) — terminal-first tooling and experiments around developer workflows
-- ⚡ [hitt](https://github.com/Osmait/hitt) — a Rust API client for the terminal with TUI + CLI, collections, chaining, and real-time protocol support
-- 🔎 [ghline](https://github.com/Osmait/ghline) — browse GitHub from the terminal over the `gh` CLI: repositories, issues, pull requests, Actions logs and files, and hand any of it to a coding agent
-- 📝 [diffline](https://github.com/Osmait/ghline/blob/main/docs/diffline.md) — review a diff and write notes anchored to the lines they are about, then send the whole queue to an agent as one message (ships with ghline)
-- ✏️ [agentline.nvim](https://github.com/Osmait/agentline.nvim) — send Neovim selections and buffers to a running coding agent, closing the loop from the editor
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Osmait/atomis">
+        <img src="https://raw.githubusercontent.com/Osmait/atomis/main/docs/images/atomis-desktop.png" alt="Atomis polyglot playground" />
+      </a>
+      <h3>⚛️ Atomis</h3>
+      <p>A local-first polyglot playground with Monaco, real language servers, supervised native execution, tests, and inline runtime values.</p>
+      <p><a href="https://github.com/Osmait/atomis"><strong>Explore Atomis →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Osmait/lectern">
+        <img src="https://raw.githubusercontent.com/Osmait/lectern/main/docs/images/desktop.png" alt="Lectern native Linux PDF reader" />
+      </a>
+      <h3>📖 Lectern</h3>
+      <p>A native Linux PDF reader written in Zig with background rendering, bookmarks, dark mode, and freehand annotations.</p>
+      <p><a href="https://github.com/Osmait/lectern"><strong>Explore Lectern →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+## Backend & Systems
+
+- 🌐 [Continuity Lab](https://github.com/Osmait/Continuity-Lab) — Git Smart HTTP with disposable nodes, an authoritative WAL, CAS coordination, and object storage.
+- 💸 [GestorDePresupuesto](https://github.com/Osmait/GestorDePresupuesto) — a Go and PostgreSQL financial backend with RLS, audit trails, workers, caching, and SSE.
+- 🦀 [sbql](https://github.com/Osmait/sbql) — a headless Rust database engine for PostgreSQL, SQLite, and Redis, shared by terminal and native interfaces.
+
+## Developer Tools
+
+- 🔎 [ghline](https://github.com/Osmait/ghline) — browse GitHub and review diffs from the terminal, then send actionable context to coding agents.
+- ⚡ [hitt](https://github.com/Osmait/hitt) — a terminal-native API client with TUI and CLI workflows, collections, chaining, assertions, and real-time protocols.
+- ✏️ [agentline.nvim](https://github.com/Osmait/agentline.nvim) — send Neovim selections and buffers directly to running coding agents.
+
 ## What I Build
-- full-stack products
-- backend services and APIs
-- developer tools
-- terminal and TUI applications
+
+- Backend services and APIs
+- Distributed and concurrent systems
+- PostgreSQL-backed applications
+- Native Linux applications
+- CLI and TUI developer tools
+- Full-stack products with backend-heavy architecture
+
 ## Current Focus
-- shipping more Rust products
-- building better developer UX
-- turning ideas into usable software quickly
+
+- Building reliable backend systems
+- Native and local-first software
+- Systems programming
+- Developer experience
+- Building in public
+
 ## Connect
-- GitHub: [@Osmait](https://github.com/Osmait)
+
 - X: [@saulburgos20](https://twitter.com/saulburgos20)
+- GitHub: [@Osmait](https://github.com/Osmait)

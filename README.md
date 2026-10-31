@@ -95,4 +95,5 @@ I work mainly with Go, Rust, Zig, Swift, TypeScript, and PostgreSQL.
 ## Connect
 
 - X: [@saulburgos20](https://x.com/saulburgos20)
+- LinkedIn: [José Saúl Burgos](https://www.linkedin.com/in/jos%C3%A9-sa%C3%BAl-burgos-35680b244/)
 - GitHub: [@Osmait](https://github.com/Osmait)
